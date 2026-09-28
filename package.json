@@ -25,7 +25,7 @@
     "drizzle-orm": "0.45.2",
     "framer-motion": "^13.0.0",
     "generative-loaders": "workspace:*",
-    "react": "19.2.8",
+    "react": "19.3.0",
     "react-dom": "19.2.8"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@types/node": "22.19.19",
-    "@types/react": "19.2.14",
+    "@types/react": "19.3.0",
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "6.0.2",
     "@vitejs/plugin-rsc": "^0.5.34",
